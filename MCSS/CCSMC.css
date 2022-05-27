@@ -1,0 +1,3445 @@
+body{
+    background-color: #FFE9DC;
+    margin-bottom: -20px;
+}
+
+header{
+    background-color: #FCE8D8;
+    margin-top:  -70px ;
+    margin-left: -7px;
+    height: 20%;
+    width: 100%;
+    position: fixed;
+    border-bottom: 1px;
+    border-bottom-color: #D2895C;
+    border-bottom-style: solid;
+}
+
+
+img{
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+li{
+    float: left;
+    list-style: none;
+    padding: 15px;
+    margin-top: 15px;
+    margin-right: 5px;
+    font-family: lobster;
+}
+
+nav{
+    float: right;
+    display: left;
+}
+
+a{
+    text-decoration: none;
+    color: #900C3F;
+}
+
+li:hover a{
+    color: #FF5733;
+}
+
+
+/*Separador*/
+
+.space01{
+
+    background-color: transparent;
+    width: 200px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 70px;
+
+}
+
+/*Menú de Platilos*/
+
+.TitleMC h1{
+
+    font-size: 35px;
+    margin-left: 500px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF5733;
+
+}
+
+.TitleMC h2{
+
+    margin-left: 50px;
+    font-family: lobster;
+    color: #FF5733;
+
+}
+
+.SpG1{
+
+    width: 980px;
+    height: 0.1px;
+    margin-top: -35px ;
+    margin-left: 260px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #E4A188;
+    border-style: solid;
+
+}
+
+/*Platillos Principales*/
+
+/*Tacos al Pastor*/
+.Food01{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px ;
+    margin-left:90px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+
+.Food01 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.Food01 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.Food01 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food01 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp01_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp01_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food01 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 65px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+
+/*Tacos de Suadero*/
+.Food02{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px ;
+    margin-left:90px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food02 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food02 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food02 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food02 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 22px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp02_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp02_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+
+.Food02 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 45px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+/*Burritos*/
+
+.Food03{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px;
+    margin-left:90px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food03 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food03 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food03 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food03 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 22px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp03_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp03_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+
+.Food03 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+
+/*Barbacoa*/
+
+.Food04{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1610px ;
+    margin-left:400px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food04 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -15px;
+
+}
+
+
+.Food04 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food04 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food04 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 22px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp04_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp04_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food04 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 65px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+
+/*Pozole*/
+
+.Food05{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 33px ;
+    margin-left:400px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food05 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food05 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food05 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food05 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 11px;
+    margin-left: -25px;
+    margin-top: 18px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp05_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp05_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food05 h6{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: 30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 7px;
+}
+
+.Food05 h1{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -33px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#A8173C;
+    border-radius: 7px;
+}
+
+.Food05 h2{
+
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -7px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C81455;
+    border-radius: 7px;
+}
+
+
+
+/*Enchiladas*/
+
+.Food06{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 38px ;
+    margin-left:400px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food06 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food06 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -23px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food06 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food06 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 11px;
+    margin-left: -25px;
+    margin-top: 22px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp06_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp06_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food06 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+/*Pambazos*/
+
+.Food07{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1613px ;
+    margin-left:710px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food07 img{
+
+    width: 220px;
+    border-radius: 15px;
+    margin-left: -15px;
+    margin-top: -13px;
+
+}
+
+
+.Food07 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+
+.Food07 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 5px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food07 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp07_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp07_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+
+.Food07 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 65px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+/*Sopa Azteca*/
+
+.Food08{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px ;
+    margin-left:710px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food08 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food08 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.Food08 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food08 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 11.1px;
+    margin-left: -25px;
+    margin-top: 18px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp08_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp08_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food08 h6{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: 30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 7px;
+}
+
+.Food08 h1{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -33px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#A8173C;
+    border-radius: 7px;
+}
+
+.Food08 h2{
+
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -7px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C81455;
+    border-radius: 7px;
+}
+
+
+
+/*Tostadas de Cochinita Pibil*/
+
+.Food09{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px ;
+    margin-left:710px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food09 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food09 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+.Food09 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food09 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 19px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp09_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp09_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+
+.Food09 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 55px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+
+/*Frijoles Charros*/
+
+.Food10{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1613px ;
+    margin-left:1020px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food10 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -15px;
+
+}
+
+
+.Food10 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+
+.Food10 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food10 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 19px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp10_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp10_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food10 h6{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: 37px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 7px;
+}
+
+.Food10 h1{
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -33px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#A8173C;
+    border-radius: 7px;
+}
+
+.Food10 h2{
+
+
+    width: 200px;
+    height: 25px;
+    font-size: 16px;
+    margin-left: -10px;
+    margin-top: -7px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C81455;
+    border-radius: 7px;
+}
+
+
+/*Chiles en Nogada*/
+
+.Food11{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 35px ;
+    margin-left:1020px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food11 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food11 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+
+.Food11 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food11 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 19px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp11_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp11_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+.Food11 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 47px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+/*Sopes*/
+
+.Food12{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 36px ;
+    margin-left:1020px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D2895C;
+    border-style: solid;
+
+}
+
+
+.Food12 img{
+
+    width: 230px;
+    border-radius: 15px;
+    margin-left: -25px;
+    margin-top: -10px;
+
+}
+
+
+.Food12 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #900C3F;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+
+.Food12 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #FF4600;
+    text-align: center;
+}
+
+.Food12 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 11px;
+    margin-left: -25px;
+    margin-top: 19px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Sp12_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+.Sp12_1{
+
+    width: 46px;
+    height: 0.01px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #900C3F;
+    border-style: solid;
+
+}
+
+
+
+.Food12 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 47px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#581845;
+    border-radius: 10px;
+}
+
+
+/*Menú de Especiales*/
+
+
+.TitleESP h2{
+
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: #FF5733;
+    font-size: 25px;
+
+}
+
+.SpG2{
+
+    width: 985px;
+    height: 0.1px;
+    margin-top: -35px ;
+    margin-left: 260px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #E4A188;
+    border-style: solid;
+
+}
+
+
+/*Alambre*/
+.ESP01{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 50px ;
+    margin-left:90px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP01 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP01 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP01 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP01 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp01_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp01_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP01 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+
+/*Anticucho*/
+.ESP02{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 50px ;
+    margin-left:90px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP02 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP02 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP02 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP02 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp02_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp02_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP02 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+
+/*Hamburguesa*/
+.ESP03{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1080px ;
+    margin-left:405px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP03 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP03 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP03 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP03 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp03_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp03_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP03 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+
+/*Pizza Hawaiana*/
+.ESP04{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 50px ;
+    margin-left:405px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP04 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP04 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP04 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP04 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp04_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp04_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP04 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+
+/*Ensalada de Pollo */
+.ESP05{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1080px ;
+    margin-left:715px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP05 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP05 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP05 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP05 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp05_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp05_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP05 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+/*Lasaña */
+.ESP06{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 55px ;
+    margin-left:715px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP06 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP06 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP06 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP06 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp06_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp06_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP06 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+/*Filete de pescado con ensalada*/
+.ESP07{
+
+    width: 260px;
+    height: 510px;
+    margin-top: -1085px ;
+    margin-left:1015px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP07 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP07 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP07 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP07 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp07_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp07_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP07 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 70px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+/*Sushi*/
+.ESP08{
+
+    width: 260px;
+    height: 510px;
+    margin-top: 57px ;
+    margin-left:1015px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #EE8F7B;
+    border-style: solid;
+
+}
+
+
+
+.ESP08 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.ESP08 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #F74722;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.ESP08 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #C70039;
+    text-align: center;
+}
+
+.ESP08 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #852814;
+    text-align: center;
+}
+
+.Spesp08_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+.Spesp08_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #F74722; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #F74722;
+    border-style: solid;
+
+}
+
+
+.ESP08 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 80px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#D42905;
+    border-radius: 10px;
+}
+
+
+/*Menú de Bebidas*/
+
+
+.TitleMB h2{
+
+    margin-left: 50px;
+    margin-top: 80px;
+    font-family: lobster;
+    color: #FF5733;
+    font-size: 25px;
+
+}
+
+.SpG3{
+
+    width: 1095px;
+    height: 0.1px;
+    margin-top: -35px ;
+    margin-left: 150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #E4A188;
+    border-style: solid;
+
+}
+
+
+/*Botella de Agua*/
+.DRK01{
+
+    width: 260px;
+    height: 450px;
+    margin-top: 50px ;
+    margin-left:85px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D293A5;
+    border-style: solid;
+
+}
+
+
+
+.DRK01 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DRK01 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #C70039;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DRK01 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #900C3F;
+    text-align: center;
+}
+
+.DRK01 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Spb01_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+.Spb01_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+
+.DRK01 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C70039;
+    border-radius: 10px;
+}
+
+
+/*Cafe*/
+
+.DRK02{
+
+    width: 260px;
+    height: 450px;
+    margin-top: -455px ;
+    margin-left:403px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D293A5;
+    border-style: solid;
+
+}
+
+
+
+.DRK02 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DRK02 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #C70039;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DRK02 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #900C3F;
+    text-align: center;
+}
+
+.DRK02 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Spb02_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+.Spb02_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+
+.DRK02 h6{
+
+    width: 165px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: -33px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C70039;
+    border-radius: 7px;
+}
+
+
+.DRK02 h1{
+
+    width: 165px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: -30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#AB0278;
+    border-radius: 7px;
+}
+
+
+/*Refrescos*/
+.DRK03{
+
+    width: 260px;
+    height: 450px;
+    margin-top: -455px ;
+    margin-left:717px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D293A5;
+    border-style: solid;
+
+}
+
+
+
+.DRK03 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DRK03 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #C70039;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DRK03 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 0px;
+    font-family: lobster;
+    color: #900C3F;
+    text-align: center;
+}
+
+.DRK03 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 12px;
+    margin-left: -25px;
+    margin-top: 20px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Spb03_0{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #C70039; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+.Spb03_1{
+
+    width: 45px;
+    height: 0.01px;
+    margin-top: -3px ;
+    margin-left:150px;
+    background-color: #C70039; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+
+.DRK03 h6{
+
+    width: 165px;
+    height: 35px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top:10px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C70039;
+    border-radius: 10px;
+}
+
+
+
+/*Agua de Sabor*/
+.DRK04{
+
+    width: 260px;
+    height: 450px;
+    margin-top: -455px ;
+    margin-left:1023px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #D293A5;
+    border-style: solid;
+
+}
+
+
+
+.DRK04 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DRK04 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #C70039;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DRK04 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #900C3F;
+    text-align: center;
+}
+
+.DRK04 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.Spb04_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+.Spb04_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #C70039;
+    border-style: solid;
+
+}
+
+
+.DRK04 h6{
+
+    width: 165px;
+    height: 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: -30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#C70039;
+    border-radius: 5px;
+}
+
+
+.DRK04 h1{
+
+   width: 165px;
+    height: 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: -30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#AB0278;
+    border-radius: 5px;
+}
+
+.DRK04 h2{
+
+    width: 165px;
+    height: 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: -5px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#7E00B9;
+    border-radius: 5px;
+}
+
+/*Menú de Postres*/
+
+
+.TitleDST h2{
+
+    margin-left: 50px;
+    margin-top: 80px;
+    font-family: lobster;
+    color: #FF5733;
+    font-size: 25px;
+
+}
+
+.SpG4{
+
+    width: 1095px;
+    height: 0.1px;
+    margin-top: -35px ;
+    margin-left: 150px;
+    background-color: #E4A188; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #E4A188;
+    border-style: solid;
+
+}
+
+/*Helado*/
+
+
+.DST1{
+
+    width: 260px;
+    height: 500px;
+    margin-top: 55px ;
+    margin-left:80px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #CDA5F4;
+    border-style: solid;
+
+}
+
+
+
+.DST1 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DST1 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #7E00B9;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DST1 h4{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #240174;
+    text-align: center;
+}
+
+.DST1 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.SpDS01_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+.SpDS01_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+
+.DST1 h6{
+
+    width: 165px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #873DD2;
+    border-radius: 7px;
+}
+
+
+.DST1 h1{
+
+    width: 165px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: -30px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color:#AB0278;
+    border-radius: 7px;
+}
+
+/*Pie de Limon*/
+
+
+.DST2{
+
+    width: 260px;
+    height: 500px;
+    margin-top: -505px ;
+    margin-left:400px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #CDA5F4;
+    border-style: solid;
+
+}
+
+
+
+.DST2 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DST2 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #7E00B9;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DST2 h4{
+
+    width: 285px;
+    height: 45px;
+    font-size: 25px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #240174;
+    text-align: center;
+}
+
+.DST2 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.SpDS02_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+.SpDS02_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+
+.DST2 h6{
+
+    width: 185px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 0px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #873DD2;
+    border-radius: 7px;
+}
+
+
+/*Churros*/
+
+
+.DST3{
+
+    width: 260px;
+    height: 500px;
+    margin-top: -505px ;
+    margin-left:715px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #CDA5F4;
+    border-style: solid;
+
+}
+
+
+
+.DST3 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DST3 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #7E00B9;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DST3 h4{
+
+    width: 285px;
+    height: 45px;
+    font-size: 25px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #240174;
+    text-align: center;
+}
+
+.DST3 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.SpDS03_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+.SpDS03_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+
+.DST3 h6{
+
+    width: 185px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 0px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #873DD2;
+    border-radius: 7px;
+}
+
+
+/*Flan*/
+
+
+.DST4{
+
+    width: 260px;
+    height: 500px;
+    margin-top: -505px ;
+    margin-left: 1020px;
+    background-color: #FCE8D8; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #CDA5F4;
+    border-style: solid;
+
+}
+
+
+
+.DST4 img{
+
+    width: 215px;
+    border-radius: 15px;
+    margin-left: -16px;
+    margin-top: -13px;
+
+}
+
+
+.DST4 h3{
+
+    width: 265px;
+    height: 45px;
+    font-size: 30px;
+    margin-left: -42px;
+    margin-top: -20px;
+    font-family: lobster;
+    color: white;
+    background-color: #7E00B9;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.DST4 h4{
+
+    width: 285px;
+    height: 45px;
+    font-size: 25px;
+    margin-left: -42px;
+    margin-top: 10px;
+    font-family: lobster;
+    color: #240174;
+    text-align: center;
+}
+
+.DST4 h5{
+
+    width: 230px;
+    height: 45px;
+    font-size: 13px;
+    margin-left: -25px;
+    margin-top: 25px;
+    font-family: roboto;
+    color: #5A1F09;
+    text-align: center;
+}
+
+.SpDS04_0{
+
+    width: 45px;
+    height: 0.1px;
+    margin-top: -66px ;
+    margin-left:-18px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+.SpDS04_1{
+
+    width: 46px;
+    height: 0.1px;
+    margin-top: -4px ;
+    margin-left:150px;
+    background-color: #7E00B9; 
+    border-radius: 14px;
+    border: 2px;
+    border-color: #7E00B9;
+    border-style: solid;
+
+}
+
+
+.DST4 h6{
+
+    width: 185px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 0px;
+    margin-top: 50px;
+    font-family: lobster;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #873DD2;
+    border-radius: 7px;
+}
+
+/*Pie de Página*/
+
+.PP{
+
+    background-color: #900C3F;
+    margin-top:  100px ;
+    margin-left: -8px;
+    height: 300px;
+    width: 1349px;
+}
+
+
+.PC h1{
+
+    margin-left:0px;
+    width: 500px;
+    font-family: lobster;
+    color: white;
+    margin-top: -250px;
+}
+
+
+.PC h2{
+
+    margin-left:0px;
+    width: 275px;
+    font-family: lobster;
+    color: white;
+    margin-top: 90px;
+}
+
+.PC p{
+
+    width: 1000px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    font-family: roboto;
+    color: white;
+    text-align: justify;
+}

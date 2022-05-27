@@ -1,0 +1,267 @@
+body{
+    background-color: #FFE9DC;
+    margin-bottom: -20px;
+}
+
+header{
+    background-color: #FCE8D8;
+    margin-top:  -69px ;
+    margin-left: -7px;
+    height: 20%;
+    width: 100%;
+    position: fixed;
+    border-bottom: 1px;
+    border-bottom-color: #D2895C;
+    border-bottom-style: solid;
+}
+
+
+img{
+    width: 90px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+li{
+    float: left;
+    list-style: none;
+    padding: 15px;
+    margin-top: 15px;
+    margin-right: 5px;
+    font-family: lobster;
+}
+
+nav{
+    float: right;
+    display: left;
+}
+
+a{
+    text-decoration: none;
+    color: #900C3F;
+}
+
+li:hover a{
+    color: #FF5733;
+}
+
+
+/*Deslizador*/
+
+.Slider{
+
+    width: 100%;
+    height: 100%;
+
+    overflow:  hidden;
+    position: static;
+    margin-top: 69px;
+    margin-left: -30px;
+}
+
+.Slider ul{
+    display: flex;
+    padding: 0;
+    width: 500%;
+
+    animation: cambio 20s infinite alternate;
+    animation-timing-function: ease-out;
+}
+
+
+
+.Slider li{
+    width: 1310px;
+    list-style: none;
+}
+
+.Slider img{
+    width: 1300px;
+}
+
+
+@keyframes cambio{
+
+    0% {margin-left: -2%;}
+    30% {margin-left: -2%;}
+    
+    35% {margin-left:-102%;}
+    65% {margin-left: -102%;}
+    
+    70% {margin-left:-202%;}
+    100% {margin-left: -202%;}
+
+
+}
+
+/*Separador*/
+
+.space01{
+
+    background-color: transparent;
+    width: 200px;
+    height: 0px;
+    margin-left: 0px;
+    margin-top: 70px;
+
+}
+
+
+
+/*Pozole*/
+
+.PozPM{
+
+    width: 420px;
+    height: 330px;
+    margin-top: 50px ;
+    margin-left:20px;
+    background-color: #581845; 
+    border-radius: 14px;
+}
+
+.PozPM img{
+
+    width: 180px;
+    border-radius: 15px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.PozPM h2{
+
+    margin-left: 0px;
+    font-family: lobster;
+    color: whitesmoke;
+    margin-top: 10px;
+}
+
+.PozPM p{
+
+    width: 320px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    font-family: roboto;
+    color: white;
+    text-align: justify;
+}
+
+/*Pizza*/
+
+.PizzaPM{
+
+    width: 450px;
+    height: 335px;
+    margin-top: -345px ;
+    margin-left:460px;
+    background-color: #D42905; 
+    border-radius: 14px;
+}
+
+.PizzaPM img{
+
+    width: 200px;
+    border-radius: 15px;
+    margin-left: -10px;
+    margin-top: 60px;
+}
+
+.PizzaPM h2{
+
+    margin-left:215px;
+    width: 190px;
+    font-family: lobster;
+    color: white;
+    margin-top: -200px;
+}
+
+.PizzaPM p{
+
+    width: 155px;
+    margin-left: 210px;
+    margin-bottom: 40px;
+    font-family: roboto;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+/*Cupon de local*/
+
+.LocalPM{
+
+    width: 360px;
+    height: 335px;
+    margin-top: -350px ;
+    margin-left:930px;
+    background-color: #C70039; 
+    border-radius: 14px;
+}
+
+.LocalPM img{
+
+    width: 170px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.LocalPM h2{
+
+    margin-left:0px;
+    width: 275px;
+    font-family: lobster;
+    color: white;
+    margin-top: 5px;
+}
+
+.LocalPM p{
+
+    width: 270px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    font-family: roboto;
+    color: white;
+    text-align: justify;
+}
+
+
+/*Pie de Página*/
+
+.PP{
+
+    background-color: #900C3F;
+    margin-top:  80px ;
+    margin-left: -8px;
+    height: 300px;
+    width: 1349px;
+}
+
+
+.PC h1{
+
+    margin-left:0px;
+    width: 500px;
+    font-family: lobster;
+    color: white;
+    margin-top: -250px;
+}
+
+
+.PC h2{
+
+    margin-left:0px;
+    width: 275px;
+    font-family: lobster;
+    color: white;
+    margin-top: 90px;
+}
+
+.PC p{
+
+    width: 1000px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    font-family: roboto;
+    color: white;
+    text-align: justify;
+}
